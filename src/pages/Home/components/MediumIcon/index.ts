@@ -1,0 +1,1 @@
+export { MediumIcon } from './MediumIcon'

@@ -1,0 +1,57 @@
+.contentBlock {
+  padding: 24px;
+  background-color: white;
+  border-radius: 20px;
+  border: 1px solid #f3f3f3;
+}
+
+.contentBlockUpper {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.titles h2 {
+  color: #2c2d2e;
+  font-feature-settings: 'clig' off, 'liga' off;
+  font-weight: 600;
+  line-height: 26px;
+}
+
+.titles p {
+  color: #87898f;
+  font-feature-settings: 'clig' off, 'liga' off;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+.arrow {
+  display: block;
+  max-width: 24px;
+  max-height: 24px;
+  width: auto;
+  height: auto;
+  margin-left: auto;
+}
+
+.contentBlockBottom {
+  margin-top: 18px;
+}
+
+.progressBars {
+  display: flex;
+  margin-top: 8px;
+  justify-content: space-around;
+}
+
+.bar {
+  height: 6px;
+  border-radius: 5px;
+  background-color: rgba(82, 167, 84, 0.1);
+  min-width: 36px;
+}
+
+.activeBar {
+  background-color: #52a754;
+}

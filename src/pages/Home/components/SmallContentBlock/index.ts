@@ -1,0 +1,1 @@
+export { SmallContentBLock } from './SmallContentBlock'
