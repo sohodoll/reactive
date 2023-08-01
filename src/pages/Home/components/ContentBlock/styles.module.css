@@ -44,7 +44,7 @@
 .progressBars {
   display: flex;
   margin-top: 8px;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
 .bar {
