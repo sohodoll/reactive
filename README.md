@@ -18,6 +18,7 @@
 - Redux
 - Error handling
 - New Features
+- Pixel Perfect
 
 ## Tech Stack
 
