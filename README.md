@@ -20,4 +20,4 @@
 
 ## Tech Stack
 
-TS, React, Vite, CSS Modules
+TS, React, Vite
