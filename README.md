@@ -5,6 +5,7 @@
 - Routing
 - Extendable & Scalable
 - Fully Responsive
+- Semantic HTML
 - Mobile First
 
 ## Deploy
