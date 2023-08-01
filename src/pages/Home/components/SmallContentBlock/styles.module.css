@@ -1,5 +1,5 @@
 .smallContentBlock {
-  padding: 16px 12px;
+  padding: clamp(16px, 2vw, 26px) clamp(12px, 1vw, 20px);
   display: flex;
   gap: 8px;
   align-items: center;
@@ -10,7 +10,7 @@
 
 .smallContentBlock p {
   color: rgba(0, 0, 0, 0.87);
-  font-size: 16px;
+  font-size: clamp(16px, 2vw, 26px);
   font-weight: 500;
   line-height: 20px;
 }

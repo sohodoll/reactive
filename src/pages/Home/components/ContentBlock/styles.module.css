@@ -15,15 +15,17 @@
   color: #2c2d2e;
   font-feature-settings: 'clig' off, 'liga' off;
   font-weight: 600;
+  font-size: clamp(26px, 4vw, 36px);
   line-height: 26px;
 }
 
 .titles p {
   color: #87898f;
   font-feature-settings: 'clig' off, 'liga' off;
-  font-size: 14px;
+  font-size: clamp(14px, 2vw, 20px);
   font-weight: 400;
   line-height: 20px;
+  margin-top: clamp(3px, 1vw, 12px);
 }
 
 .arrow {
@@ -49,7 +51,7 @@
   height: 6px;
   border-radius: 5px;
   background-color: rgba(82, 167, 84, 0.1);
-  min-width: 36px;
+  width: clamp(36px, 10vw, 100vw);
 }
 
 .activeBar {

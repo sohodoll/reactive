@@ -1,3 +1,6 @@
 export * from './ContentBlock'
 export * from './LargeIcon'
 export * from './SmallIcon'
+export * from './MediumIcon'
+export * from './MiscBlock'
+export * from './SmallContentBlock'

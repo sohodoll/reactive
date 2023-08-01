@@ -6,6 +6,11 @@
   padding: 13px;
 }
 
+.largeIcon img {
+  width: clamp(32px, 5vw, 50px);
+  height: auto;
+}
+
 .primary {
   background-color: #ffe3dd;
 }
